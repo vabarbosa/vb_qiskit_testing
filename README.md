@@ -1,10 +1,10 @@
 #Qiskit testing
 
-Testing out qiskit, quantum algorithms and stuff :)
+Testing out qiskit, quantum algorithms and stuff :) <br>
 
-Installation
+##Installation <br>
 
-conda install conda-forge::qiskit
-conda install conda-forge::qiskit-terra
-conda install conda-forge::qiskit-ibm-runtime
+conda install conda-forge::qiskit <br>
+conda install conda-forge::qiskit-terra <br>
+conda install conda-forge::qiskit-ibm-runtime <br>
 
